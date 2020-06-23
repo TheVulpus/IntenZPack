@@ -9,6 +9,9 @@ class CfgPatches
 		{
 			"DZ_Data",
 			
+			"DZ_Characters",
+			"DZ_Characters_Tops",
+			
 			"DZ_Weapons_Ammunition",
 			"DZ_Weapons_Magazines",
 			"DZ_Weapons_Muzzles",

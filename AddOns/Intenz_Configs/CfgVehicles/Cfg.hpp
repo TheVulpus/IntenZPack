@@ -8,4 +8,7 @@ class CfgVehicles
 
 	class Car;
 	#include "Car\Cfg.hpp"
+	
+	class Armband_Base;
+	#include "Armband_Base\Cfg.hpp"
 };

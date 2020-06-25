@@ -11,4 +11,7 @@ class CfgVehicles
 	
 	class Armband_ColorBase;
 	#include "Armbands\Cfg.hpp"
+	
+	class TShirt_ColorBase;
+	#include "Shirts\Cfg.hpp"
 };
